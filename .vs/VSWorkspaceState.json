@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\project1",
+    "\\templates",
+    "\\templates\\test1appa",
+    "\\test1appa",
+    "\\test1appa\\migrations",
+    "\\test1appa\\migrations\\__pycache__",
+    "\\test1appa\\__pycache__"
+  ],
+  "SelectedNode": "\\templates\\test1appa\\product_details.html",
+  "PreviewInSolutionExplorer": false
+}
